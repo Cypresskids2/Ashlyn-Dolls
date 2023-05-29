@@ -1,0 +1,20 @@
+body {
+    background-color: powderblue;
+    text-align: center;
+}
+
+#subButton {
+    margin-top: 30px;
+    height: 50px;
+    width: 100px;
+    font-size: 16px;
+    background-color: white;
+    
+}
+
+
+#subButton:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}

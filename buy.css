@@ -1,0 +1,24 @@
+
+body {
+
+    background-color: aqua;
+}
+
+#big {
+    text-align: center;
+    font-size: 4vmax;
+}
+
+
+.dollCont {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-around;
+}
+
+.dollCont img {
+    height: 20vw;
+    margin: 2vw;
+}
